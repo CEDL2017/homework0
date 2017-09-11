@@ -7,8 +7,11 @@ https://docs.google.com/spreadsheets/d/153XruMO7DPONzBTkxh8ZoYSto1E_2zO021vs0prW
 First come first serve!
 -------
 David Silver: "DL + RL = AI"
+
 ‧Dr. David Silver leads the reinforcement learning research group at DeepMind and is lead researcher on AlphaGo.
+
 ‧David graduated from Cambridge University in 1997 with the Addison-Wesley award. 
+
 ‧Subsequently, David co-founded the video games company Elixir Studios, where he was CTO and lead programmer, receiving several awards for technology and innovation.
 ‧David returned to academia in 2004 at the University of Alberta to study for a PhD on reinforcement learning, where he co-introduced the algorithms used in the first master-level 9x9 Go programs.
 ‧David was awarded a Royal Society University Research Fellowship in 2011, and subsequently became a lecturer at University College London. 
