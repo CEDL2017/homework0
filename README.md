@@ -21,5 +21,16 @@ Sepp Hochreiter has made numerous contributions in the fields of machine learnin
 
 ## Scientific contributions
 ### LSTM
+Sepp Hochreiter developed the long short-term memory (LSTM) for which the first results were reported in his diploma thesis in 1991.
+
+LSTM overcomes the problem of recurrent neural networks (RNNs) and deep networks to forget information over time or through layers (vanishing or exploding gradient).
+
+LSTM learns from training sequences to process new sequences in order to produce an output or generate an output sequence.
+
+LSTM cells solved numerous tasks in automatic music composition, machine translation, speech recognition, reinforcement learning, and robotics.
+
 
 ### Deep learning and learning representations
+
+## Reference
+https://en.wikipedia.org/wiki/Sepp_Hochreiter
