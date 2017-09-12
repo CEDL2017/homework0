@@ -13,11 +13,20 @@ Since 2006 he has been head of the Institute of Bioinformatics at the Johannes K
 
 He was at the Technical University of Berlin, at the University of Colorado at Boulder, and at the Technical University of Munich.
 
-Sepp Hochreiter is broadly active within his field:
-he launched the Bioinformatics Working Group at the Austrian Computer Society; he is founding board member of different bioinformatics start-up companies; he was program chair of the conference Bioinformatics Research and Development, he is a conference chair of the conference Critical Assessment of Massive Data Analysis; and he is editor, program committee member, and reviewer for international journals and conferences.
-
 ## The field of expertise
 Sepp Hochreiter has made numerous contributions in the fields of machine learning and bioinformatics.
+
+### In addition to his research contributions, Sepp Hochreiter is broadly active within his field:
+
+He launched the Bioinformatics Working Group at the Austrian Computer Society.
+
+He is founding board member of different bioinformatics start-up companies.
+
+He was program chair of the conference Bioinformatics Research and Development.
+
+He is a conference chair of the conference Critical Assessment of Massive Data Analysis.
+
+He is editor, program committee member, and reviewer for international journals and conferences.
 
 ## Scientific contributions
 ### LSTM
