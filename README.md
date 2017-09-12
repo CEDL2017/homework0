@@ -7,15 +7,15 @@ First come first serve!
 -------
 Write here
 
-## Sepp Hochreiter
-# Career profile
+# Sepp Hochreiter
+## Career profile
 Sepp Hochreiter born Josef Hochreiter in 1967 is a German computer scientist.
 
 Since 2006 he has been head of the Institute of Bioinformatics at the Johannes Kepler University of Linz.
 
 He was at the Technical University of Berlin, at the University of Colorado at Boulder, and at the Technical University of Munich.
 
-# The field of expertise
+## The field of expertise
 
 
-# Scientific contributions
+## Scientific contributions
