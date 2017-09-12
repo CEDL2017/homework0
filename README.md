@@ -41,6 +41,7 @@ LSTM cells solved numerous tasks in automatic music composition, machine transla
 LSTM networks are used in Google Voice transcription, Google voice search and Google's Allo as core technology for voice searches and commands in the Google App (on Android and iOS), and for dictation on Android devices. Also Apple applies LSTM since iOS 10 in the "Quicktype" function.
 
 ### Deep learning and learning representations
+Sepp Hochreiter's group introduced "exponential linear units" (ELUs) which speed up learning in deep neural networks and lead to higher classification accuracies. Like rectified linear units (ReLUs), leaky ReLUs (LReLUs), and parametrized ReLUs (PReLUs), ELUs alleviate the vanishing gradient problem via the identity for positive values. However, ELUs have improved learning characteristics compared to ReLUs, due to negative values which push mean unit activations closer to zero. Mean shifts toward zero speed up learning by bringing the normal gradient closer to the unit natural gradient because of a reduced bias shift effect.
 
 ## Reference
 https://en.wikipedia.org/wiki/Sepp_Hochreiter
