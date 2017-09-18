@@ -12,9 +12,9 @@ Ross Girshick is working at Facebook AI Research (FAIR) currently, and he receie
 ## About his works  
 R-CNN architecture was the first one using region proposal and convolution neural network to detect object location in an image, and R-CNN reached state of the art at that year.And the next year, he proposed a more powerful architecture doing object localization, Fast R-CNN. The features on Fast R-CNN work were in folllowing. First, use ROI pooling for getting the same input size in fully-connected layer. Second, apply multi-task loss function (class score and bounding box regression).Those were amazing parts, because R-CNN can do end-to-end training/testing base on this. It could saved a lot of time. Until today, there are many state of the art networks (such as Faster R-CNN, Yolo, SSD, A Fast RCNN) based on his cotribution in this field.  
 ## Currently Research  
-visual perception (object recognition, localization, segmentation, pose estimation, ...)  
-visual reasoning (answering complex queries, often in natural language, about images)  
+### visual perception (object recognition, localization, segmentation, pose estimation, ...)  
+### visual reasoning (answering complex queries, often in natural language, about images)  
 ## Reference
-His homepage: http://www.rossgirshick.info/  
-R-CNN: https://arxiv.org/abs/1311.2524  
-Fast R-CNN: https://arxiv.org/abs/1504.08083  
+### His homepage: http://www.rossgirshick.info/  
+### R-CNN: https://arxiv.org/abs/1311.2524  
+### Fast R-CNN: https://arxiv.org/abs/1504.08083  
