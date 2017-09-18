@@ -5,4 +5,7 @@ To avoid writing the same person, please report the person's name in
 https://docs.google.com/spreadsheets/d/153XruMO7DPONzBTkxh8ZoYSto1E_2zO021vs0prWZ_Q/edit?usp=sharing
 First come first serve!
 -------
-Write here
+Pieter Abbeel is an researcher in reinforcement learning
+* He researches in deep learning for robotics
+* He teaches AI in Berkeley
+* He used to give a [tutorial](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Deep-Reinforcement-Learning-Through-Policy-Optimization) at NIPS2016
