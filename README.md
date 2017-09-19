@@ -23,6 +23,7 @@ Thank you.
 
 Some of his papers:
 http://dblp.uni-trier.de/pers/hd/s/Shelhamer:Evan
+
 His github:
 https://github.com/shelhamer
 
