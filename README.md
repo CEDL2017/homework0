@@ -6,6 +6,7 @@ https://docs.google.com/spreadsheets/d/153XruMO7DPONzBTkxh8ZoYSto1E_2zO021vs0prW
 First come first serve!
 -------
 Write here
+-------
 
 The deep learning expert I am going to introduce is Jonathan Long.
 
@@ -16,3 +17,7 @@ Jonathan focus on algorithms that learn to decode perceptual input into useful i
 Also, he is a developer of Caffe.
 
 When speaking about Semantic Segmentation, we can never forget Fully Convolutional Networks(FCN). FCN won the best paper honor in CVPR 2015 and Jonathan Long is the person who received this award. Before getting the honor of best paper in CVPR, he had submitted a paper in NIPS and accepted in 2014.
+
+--------
+Reference:
+http://people.eecs.berkeley.edu/~jonlong/
