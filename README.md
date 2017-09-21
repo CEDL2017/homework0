@@ -6,7 +6,7 @@ https://docs.google.com/spreadsheets/d/153XruMO7DPONzBTkxh8ZoYSto1E_2zO021vs0prW
 First come first serve!
 -------
 
-## Andrea Vedaldi
+## professor: Andrea Vedaldi
 #### Introduction
 
 Andrea Vedaldi is an Associate Professor in Engineering Science, Tutorial Fellow at New College, and member of the VGG group at the University of Oxford.
@@ -25,6 +25,11 @@ I have read some Andrea Vedaldi’s publications and watched his speech video si
   * Return of the Devil in the Details: Delving Deep into Convolutional Nets
       K Chatfield, K Simonyan, A Vedaldi, A Zisserman
       British Machine Vision Conference (BMVC)
+      
+  * Multiple kernels for object detection
+      A Vedaldi, V Gulshan, M Varma, A Zisserman
+      Computer Vision, 2009 IEEE 12th International Conference on, 606-613
+      
 #### other publications:
 https://scholar.google.com.tw/citations?hl=zh-TW&user=bRT7t28AAAAJ&view_op=list_works&sortby=pubdate
 
