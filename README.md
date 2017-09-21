@@ -7,7 +7,7 @@ First come first serve!
 -------
 
 ## Andrea Vedaldi
-
+------------------------------------------------------------------------------------------------------------------------------
 #### Introduction
 
 Andrea Vedaldi is an Associate Professor in Engineering Science, Tutorial Fellow at New College, and member of the VGG group at the University of Oxford.
@@ -29,7 +29,8 @@ I have read some Andrea Vedaldi’s publications and watched his speech video si
 #### other publications:
 https://scholar.google.com.tw/citations?hl=zh-TW&user=bRT7t28AAAAJ&view_op=list_works&sortby=pubdate
 
-
+#### Home page:
+http://www.robots.ox.ac.uk/~vedaldi//
 
 ---
 
