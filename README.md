@@ -7,7 +7,6 @@ First come first serve!
 -------
 
 ## Andrea Vedaldi
-------------------------------------------------------------------------------------------------------------------------------
 #### Introduction
 
 Andrea Vedaldi is an Associate Professor in Engineering Science, Tutorial Fellow at New College, and member of the VGG group at the University of Oxford.
