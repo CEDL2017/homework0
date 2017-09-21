@@ -31,7 +31,7 @@ I have read some Andrea Vedaldi’s publications and watched his speech video si
       Computer Vision, 2009 IEEE 12th International Conference on, 606-613
       
 #### other publications:
-https://scholar.google.com.tw/citations?hl=zh-TW&user=bRT7t28AAAAJ&view_op=list_works&sortby=pubdate
+http://www.robots.ox.ac.uk/~vedaldi/pub.html
 
 #### Home page:
 http://www.robots.ox.ac.uk/~vedaldi//
