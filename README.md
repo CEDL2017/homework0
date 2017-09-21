@@ -9,7 +9,7 @@ First come first serve!
 ## Andrea Vedaldi
 
 #### Introduction
-------------------------------------------------------------------------------------------------------------------------------
+
 Andrea Vedaldi is an Associate Professor in Engineering Science, Tutorial Fellow at New College, and member of the VGG group at the University of Oxford.
 
 His research focuses on computer vision methods to understand the content of images automatically, with applications to organizing and searching vast image and video libraries and recognizing faces and text in images and videos.
