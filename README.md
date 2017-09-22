@@ -26,6 +26,7 @@ Born on 1959, April 7, Christopher Bishop is a Microsoft Technical Fellow and th
 ## Popular publications
 * Pattern Recognition and Machine Learning (2006)
 * Neural Netwoeks for Pattern Recognition (1995)
+
 The first book has been widely used as a textbook in many machine learning course.
 
 ## References
