@@ -6,7 +6,7 @@ https://docs.google.com/spreadsheets/d/153XruMO7DPONzBTkxh8ZoYSto1E_2zO021vs0prW
 First come first serve!
 -------
 # Shaoqing Ren
-## Biography
+
 
 Shaoqing Ren co-founded an autonomous driving software startup Momenta in September 2016. Currently their team is working on innovative computer vision solutions to allow self-driving cars to become a reality. 
 
