@@ -6,11 +6,11 @@ https://docs.google.com/spreadsheets/d/153XruMO7DPONzBTkxh8ZoYSto1E_2zO021vs0prW
 First come first serve!
 -------
 ## Shaoqing Ren
-Biography
+# Biography
 
 Shaoqing Ren co-founded an autonomous driving software startup Momenta in September 2016. Currently their team is working on innovative computer vision solutions to allow self-driving cars to become a reality. 
 
-Before Shaoqing Ren got his PhD degree in a joint Ph.D program between University of Science and Technology of China and Microsoft Research Asia. His supervisor is Dr. Jian Sun. Prior that, he received my B. Eng degree from the same department in 2011. 
+Before Shaoqing Ren got his PhD degree in a joint Ph.D program between University of Science and Technology of China and Microsoft Research Asia. His supervisor is Dr. Jian Sun. Prior that, he received his B. Eng degree from the same department in 2011. 
 
 
 
