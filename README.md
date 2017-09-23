@@ -8,7 +8,7 @@ First come first serve!
 Write here
 
 # Christopher Bishop
-
+![Alt text](https://en.wikipedia.org/wiki/Christopher_Bishop#/media/File:Chris_Bishop_June_2015_Image_3_-_SMALLER.jpg)
 ## Education
 * B.A., Physics, University of Oxford
 * Ph.D., Theoretical Physics, University of Edinburgh
