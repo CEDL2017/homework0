@@ -9,7 +9,7 @@ Write here
 
 # Christopher Bishop
 <<<<<<< HEAD
-![Alt text](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Headshot__0132_cropped_christopher-bishop-180x180.jpg)
+![Alt text](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Headshot__0132_cropped_christopher-bishop-360x360.jpg)
 =======
 ![](https://en.wikipedia.org/wiki/Christopher_Bishop#/media/File:Chris_Bishop_June_2015_Image_3_-_SMALLER.jpg)
 >>>>>>> 503997fdf257d61046f9b1a98a5a396701d200da
