@@ -7,14 +7,14 @@ First come first serve!
 -------
 Write here
 
-# Christopher Michael Bishop
+# Christopher Bishop
 
 ## Education
 * B.A., Physics, University of Oxford
 * Ph.D., Theoretical Physics, University of Edinburgh
 
 ## Experience
-Born on 1959, April 7, Christopher Bishop is a Microsoft Technical Fellow and the Laboratory Director at Microsoft Research Cambridge, and also a professor of Computer Science at the University of Edinburgh, and a fellow of Darwin College, Cambridge. After obtaining his Ph.D degree in University of Edinburgh, he then joined Culham Laboratory and developed an interest in pattern recognition.
+Born on 1959, April 7, Christopher Bishop is a Microsoft Technical Fellow and the Laboratory Director at Microsoft Research Cambridge, and also a professor of Computer Science at the University of Edinburgh, and a fellow of Darwin College, Cambridge. After obtaining his Ph.D degree in University of Edinburgh, he then joined Culham Laboratory and developed an interest in pattern recognition. He led the Neural Computing Research Group at Aston University. In 1997, he digged himself into neural networks and machine learning at the Isaac Newton Institute for Mathematical Sciences in Cambridge. After that he joined Microsoft Research Laboratory in Cambridge and leads the Machine Learning and Perception group. His research interests include probabilistic approaches to machine learning and the application to biomedical science and healthcare.
 
 ## Awards and honours
 * Fellow of the Royal Academy of Engineering (FREng) (2004)
@@ -25,6 +25,8 @@ Born on 1959, April 7, Christopher Bishop is a Microsoft Technical Fellow and th
 
 ## Popular publications
 * Pattern Recognition and Machine Learning (2006)
+* Probabilistic Principal Component Analysis (1999)
+* Mixtures of Probabilistic Principal Component Analyzers (1999)
 * Neural Netwoeks for Pattern Recognition (1995)
 
 The first book has been widely used as a textbook in many machine learning course.
@@ -32,4 +34,4 @@ The first book has been widely used as a textbook in many machine learning cours
 ## References
 * https://www.microsoft.com/en-us/research/people/cmbishop/
 * https://en.wikipedia.org/wiki/Christopher_Bishop
-
+* www.csap.cam.ac.uk/network/christopher-bishop/
