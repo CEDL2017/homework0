@@ -27,5 +27,5 @@ What is it?
 
 A labeled image database organized according to the WordNet (only objects). WordNet groups synonyms as "synsets", provides short definitions and usage examples, and records a number of relations among these synsets. In ImageNet, they aim to provide an average of 1000 images for each synset.
 
-How it it built? Amazon Mechanical Turk
+How it it built? --Crowdsourcing!
 Amazon Mechanical Turk is a crowdsourcing marketplace of human intelligence tasks (HITs). First, the Turks (workers) have to pass a definition quiz of a tag. After that, they can start deciding whether some images correspond to that tag which helps them earn some money.
