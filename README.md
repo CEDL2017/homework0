@@ -7,7 +7,7 @@ First come first serve!
 -------
 Write here
 
-# Fei-Fei Li Ph.D.
+# Dr. Fei-Fei Li
 
 # Motivation
 When I was a freshman, I liked to watch TEDs. One day, while browsing videos, I saw a Chinese woman talking about AI. Most of the talk was quite ordinary. However, I was shocked by the ending. I've already had a passion in neural network since high school, but what I didn't know was that AI already had the ability to describe the content of a picture. It was unbelievable for me at that time, even somewhat today. Years later, the part of the video I mentioned as "ordinary" isn't ordinary at all. It is the development of ImageNet. Dr. Fei-Fei Li is one of the people who makes me get involved in DL. Here's the TED Talk.
@@ -30,3 +30,8 @@ A labeled image database organized according to the WordNet (only objects). Word
 How is it built? Crowdsourcing!
 
 Amazon Mechanical Turk is a crowdsourcing marketplace of human intelligence tasks (HITs). First, the Turks (workers) have to pass a definition quiz of a tag. After that, they can start deciding whether some images correspond to that tag which helps them earn some money.
+
+# Deep Visual-Semantic Alignments for Generating Image Descriptions
+Dr. Andrej Karpathy and Dr. Fei-Fei Li have trained a model that can generate a sentence from an image (image captioning). This is the researh which Dr. Fei-Fei Li introduced in TED. About the architecture, instead of adding softmax, they directed the outputs of CNN directly to a sequence-to-sequence model. The training data were from Flickr8K, Flickr30K and MSCOCO which were annotated with 5 sentences also using "Amazon Mechanical Turk".
+
+http://cs.stanford.edu/people/karpathy/deepimagesent/
