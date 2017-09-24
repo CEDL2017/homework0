@@ -5,8 +5,8 @@ To avoid writing the same person, please report the person's name in
 https://docs.google.com/spreadsheets/d/153XruMO7DPONzBTkxh8ZoYSto1E_2zO021vs0prWZ_Q/edit?usp=sharing
 First come first serve!
 -------
-<div align=center>
-<img src="https://github.com/guan-yuan/homework0/blob/master/sources/photo-larocheh.jpg" width="400" height="400" alt="Hugo Larochelle"/>
+<div align=left>
+<img src="https://github.com/guan-yuan/homework0/blob/master/sources/photo-larocheh.jpg" style="zoom:50%" alt="Hugo Larochelle"/>
 </div>
 ## Hugo Larochelle (http://www.dmi.usherb.ca/~larocheh/index_en.html)
 
