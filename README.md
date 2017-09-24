@@ -32,6 +32,6 @@ How is it built? Crowdsourcing!
 Amazon Mechanical Turk is a crowdsourcing marketplace of human intelligence tasks (HITs). First, the Turks (workers) have to pass a definition quiz of a tag. After that, they can start deciding whether some images correspond to that tag which helps them earn some money.
 
 # Deep Visual-Semantic Alignments for Generating Image Descriptions
-Dr. Andrej Karpathy and Dr. Fei-Fei Li have trained a model that can generate a sentence from an image (image captioning). This is the researh which Dr. Fei-Fei Li introduced in TED. About the architecture, instead of adding softmax, they directed the outputs of CNN directly to a sequence-to-sequence model. The training data were from Flickr8K, Flickr30K and MSCOCO which were annotated with 5 sentences also using "Amazon Mechanical Turk".
+Dr. Andrej Karpathy and Dr. Fei-Fei Li have trained a model that can generate a sentence from an image (image captioning). This is the researh which Dr. Fei-Fei Li introduced in TED. About the architecture, instead of adding softmax, they directed the outputs of CNN to a sequence-to-sequence model. The training data were from Flickr8K, Flickr30K and MSCOCO which were annotated with 5 sentences also using "Amazon Mechanical Turk".
 
 http://cs.stanford.edu/people/karpathy/deepimagesent/
