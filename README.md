@@ -17,5 +17,5 @@ First come first serve!
 
 #### An example about hierarchical softmax computations (Hugo Lachorelle's Youtube lectures)
 <div align=left>
-<img src="https://github.com/guan-yuan/homework0/blob/master/sources/photo-larocheh.jpg" width = "30%" alt="hierarchical softmax computations"/>
+<img src="https://github.com/guan-yuan/homework0/blob/master/sources/03.PNG" width = "30%" alt="hierarchical softmax computations"/>
 </div>
