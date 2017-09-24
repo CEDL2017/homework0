@@ -17,8 +17,11 @@ First come first serve!
 # Influnce
   Here is the link that he introduces all his research work in NMT in person: [Imthang/thesis](https://github.com/lmthang/thesis)
   Besides the most famous research work of proposing attention mechanism, I'd like to present some other his researches which I'm really impressed with.
+  
   [Addressing the rare word problem in neural machine translation](https://arxiv.org/pdf/1410.8206)
+  
   [A hierarchical neural autoencoder for paragraphs and documents](https://arxiv.org/pdf/1506.01057)
+  
   [When Are Tree Structures Necessary for Deep Learning of Representations?](https://arxiv.org/pdf/1503.00185)
   
   
