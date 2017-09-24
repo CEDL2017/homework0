@@ -17,11 +17,10 @@ His group develops algorithms for large-scale perceptual learning, including obj
 
 His areas of interest include computer vision, machine learning, natural language processing, and perception-based human computer interfaces. His reasech area is very wide, I know the famous professor because I previously did a project about domain adaptation and self-driving car related. Moreover, last semester I took a course about NLP, and I found an impressive paper, titled "Learning to reason: End-to-end module networks for visual question answering" as I survey the final project topic. The paper teaches a machine VQA tasks by decomposing the question into modular sub-problems and step by step reasoning. It inspires me a lot.
 
-</br>
 ### Current Teaching 
 ##### CS294-43: Object and Activity Recognition Seminar 
 ##### CS294-131: Deep Learning Seminar (Fall, Spring)
-</br>
+
 ### Recent Publications
 ##### [Learning modular neural network policies for multi-task and multi-robot transfer](https://arxiv.org/pdf/1609.07088.pdf)
 ##### [Learning to reason: End-to-end module networks for visual question answering](https://arxiv.org/pdf/1704.05526.pdf)
