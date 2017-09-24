@@ -1,8 +1,11 @@
-# homework0
-Please write about a deep learning expert in your README.md.
-he/she can be a professor (e.g., Yann LeCun), a Ph.D student (e.g., Joseph Chet Redmon), a hacker (e.g., Flood Sung), a researcher (e.g., John Schulman), an enginner (e.g., Soumith Chintala), an entrepreneur (e.g., Matthew Zeiler), etc.
-To avoid writing the same person, please report the person's name in  
-https://docs.google.com/spreadsheets/d/153XruMO7DPONzBTkxh8ZoYSto1E_2zO021vs0prWZ_Q/edit?usp=sharing
-First come first serve!
--------
-Write here
+## Alex J. Champandard
+I later found that he is more like a AI expert than a deep learning expert, but still really famous for the work of modified neral style transfer which is a popular topic related to deep learning few years ago, so I think I will still introduce him to you. </br>
+He has worked in industry as a senior AI programmer for many years. He received his master degree of artificial intelligence in the University of Edinburgh in 2002. Alex J. Champandard focused on game development for many years, most notably for working on an advanced motion-capture based animation system in [Rockstar Games](http://www.rockstargames.com/) and found the largest online site for the game AI community - [AiGameDev.com](http://aigamedev.com/)</br>
+In 2016, he propose a novel structure (with semantic information) on neural style transfer, the demo known as **_neural doodle_** and got a pretty nice result compare to previous work. Here is [the nice demo](https://github.com/alexjc/neural-doodle/blob/master/docs/Workflow.gif) of his work. You can also check the **code** and **paper** [here](https://github.com/alexjc/neural-doodle) and [here](https://arxiv.org/pdf/1603.01768.pdf) respectively. </br>
+Now he is the founder of [creative.ai](https://www.linkedin.com/company/15245813/) and the event director of [nucl.ai conference](https://nucl.ai/) which dedicates to the application of artificial intelligence techniques in creative industries.
+
+### More Information and Reference
+His [github](https://github.com/alexjc) </br>
+His [Linkedin](https://www.linkedin.com/in/alexjc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BrntnqarHSK6Ak0M7al5kRQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_people-search_srp_result&lici=NGB%2ByZrnTEu8LuznR8K9Iw%3D%3D) </br>
+His [Twitter](https://twitter.com/alexjc) </br>
+AiGameDev - [Team info](https://aigamedev.com/page/company/) </br>
