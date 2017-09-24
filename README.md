@@ -17,3 +17,5 @@ She is the top famous research in RL/robotic/meta-learning realm. One of the fam
 + [Reset-Free Guided Policy Search: Efficient Deep Reinforcement Learning with Stochastic Initial States](https://arxiv.org/pdf/1610.01112.pdf)
 + [A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](https://arxiv.org/pdf/1611.03852.pdf)
 + ...etc
+
+### [homepage](http://people.eecs.berkeley.edu/~cbfinn/)
