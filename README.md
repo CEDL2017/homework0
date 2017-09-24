@@ -20,7 +20,6 @@ https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_
 
 22: Obtain B.S. degree in physics from Princeton University with High Honors during a huge bull market. Although get offers from Wall Street, she decides to go to Tibet to do a year of Tibetan medicine research.
 
-29: Obtain master and Ph.D. degree in EE from Caltech. Her advisors are Pietro Perona and Christof Koch. The later one whom I think has largely influenced her research in artificial neural network.
+29: Obtain master and Ph.D. degree in EE from Caltech. Her advisors are Pietro Perona and Christof Koch.
 
-23: go to caltech to study AI and computational neuroscience
-her mom get cancer
+# ImageNet
