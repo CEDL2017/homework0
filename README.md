@@ -19,3 +19,5 @@ First come first serve!
 <div align=left>
 <img src="https://github.com/guan-yuan/homework0/blob/master/sources/03.PNG" width = "80%" alt="hierarchical softmax computations"/>
 </div>
+
+### His publications (http://www.dmi.usherb.ca/~larocheh/index_en.html)
