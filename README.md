@@ -24,7 +24,9 @@ https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_
 
 # ImageNet
 What is it?
+
 A labeled image database organized according to the WordNet (only objects). WordNet groups synonyms as "synsets", provides short definitions and usage examples, and records a number of relations among these synsets. In ImageNet, they aim to provide an average of 1000 images for each synset.
 
 How it it built?
+
 Crowdsourcing --Amazon Mechanical Turk
