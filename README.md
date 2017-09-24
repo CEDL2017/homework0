@@ -6,7 +6,7 @@ https://docs.google.com/spreadsheets/d/153XruMO7DPONzBTkxh8ZoYSto1E_2zO021vs0prW
 First come first serve!
 -------
 # Thang Luong
-
+![alt text](https://avatars2.githubusercontent.com/u/396613?v=4&s=460 "Logo Title Text 1")
 # Motivation
   Anyone who is paying attention to Deep Learning researches in NLP especially in Neural Machine Translation, will defintely hear of **Thang Luong**. His most famous work is [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025). The multiplicative attention mechanism in sequence-to-sequecne training he proposed has already been applied in many Deep Learning tasks in these years.
   Because of my recent research and interest, I recently pay my attention on Deep Learning about NLP tasks mainly. I spend a lot of time and energy studying the whole process and concepts of NMT, and from the process I've deeply known that how attention mechanism deeply affects NMT.
