@@ -1,6 +1,6 @@
 # Aja Huang
-Aja Huang
-
+Aja Huang (1978~), a Ph.D of National Taiwan Normal University, now working as an Engineer in DeepMind. One of the most important people for developing AlphaGo.
+<br>
 
 # Education
 National Taiwan Normal University
@@ -30,3 +30,5 @@ In the 2017 Future of Go Summit, AlphaGo beat Ke Jie, the world No.1 ranked play
 AlphaGo uses a Monte Carlo tree search algorithm to find its moves based on knowledge previously "learned" by machine learning, specifically by an artificial neural network (a deep learning method) by extensive training, both from human and computer play.
 (from wiki: https://en.wikipedia.org/wiki/AlphaGo)
 
+# Comments
+I think Dr.Huang is really an extroadinary researcher, mainly because he's the Ph.D originated from Taiwan. He proves that it can still have huge contribution on the computer science in Taiwan. I hope that I can have such ahievement someday in the future.ve
